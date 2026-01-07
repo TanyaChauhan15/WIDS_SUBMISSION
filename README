@@ -1,0 +1,112 @@
+# WiDS NLP Track — Learning & Implementation Repository
+
+This repository contains my complete work for the **WiDS (Women in Data Science) NLP Track**.  
+The journey progresses from **NLP fundamentals**, through **deep learning methods**, and finally to **modern transformer-based architectures**.
+
+All implementations are done using **Google Colab** for easy reproducibility and accessibility.
+
+---
+
+## 📌 Overview of Weekly Progress
+
+- **Week 1** focuses on understanding the basics of NLP and text preprocessing.
+- **Week 2** introduces machine learning and deep learning techniques for NLP tasks.
+- **Week 3** explores modern NLP using transformers and pretrained models.
+
+Each week includes hands-on coding, experiments, and mini-projects aligned with the WiDS curriculum.
+
+---
+
+## 📅 Week 1 — Basics of Natural Language Processing
+
+### Key Topics
+- Introduction to NLP
+- Tokens, types, and corpora
+- Text preprocessing techniques:
+  - Tokenization
+  - Stopword removal
+  - Stemming and lemmatization
+- N-grams
+- Basic NLP pipeline using Python
+
+### Outcome
+By the end of this week, I gained a strong foundation in how textual data is processed and prepared for machine learning models.
+
+🔗 **Google Colab Notebook (Week 1)**  
+https://colab.research.google.com/drive/1NEfwJZqhX6gamu2tBLz2fln4lWkhK3OR
+
+---
+
+## 📅 Week 2 — Deep Learning for NLP
+
+### Key Topics
+- Word embeddings:
+  - Word2Vec
+  - GloVe
+- Traditional NLP approaches:
+  - Bag-of-Words
+  - TF-IDF
+- Neural networks for NLP:
+  - RNN
+  - LSTM
+- Evaluation metrics:
+  - Accuracy
+  - F1-score
+
+### Mini-Project
+- Comparison of:
+  - TF-IDF + Logistic Regression
+  - LSTM-based sentiment classifier
+
+### Outcome
+This week helped me understand how deep learning models capture semantic meaning and context in text data.
+
+🔗 **Google Colab Notebook (Week 2)**  
+https://colab.research.google.com/drive/1nDpwkVI-SiFNQsJvcTJEJFOzfMzX7BCO
+
+---
+
+## 📅 Week 3 — Transformers and Modern NLP
+
+### Key Topics
+- Transformer architecture
+- Self-attention mechanism (Q, K, V)
+- Comparison of:
+  - BERT
+  - GPT
+  - Encoder–Decoder models
+- Tokenization techniques:
+  - WordPiece
+  - BPE
+  - SentencePiece
+
+### Mini-Project
+- Text summarization using pretrained transformer models
+- Fine-tuning BERT for text classification
+- Inference using Hugging Face pipelines
+
+### Outcome
+This week introduced state-of-the-art NLP techniques and practical usage of pretrained transformer models.
+
+🔗 **Google Colab Notebook (Week 3)**  
+https://colab.research.google.com/drive/16n6mNQHVoTaRHrW23FkJr8l9L3tIuk-y
+
+---
+
+## 🛠 Tools & Technologies Used
+- Python
+- Google Colab
+- NLTK & spaCy
+- Scikit-learn
+- TensorFlow / PyTorch
+- Hugging Face Transformers & Datasets
+- SentencePiece
+
+---
+
+## ✅ Conclusion
+This repository reflects my structured learning journey in NLP — from fundamentals to modern transformer-based approaches — through consistent hands-on implementation and experimentation.
+
+---
+
+✨ **End of README**
