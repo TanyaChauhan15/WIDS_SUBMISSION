@@ -1,6 +1,6 @@
-# WiDS NLP Track — Learning & Implementation Repository
+# WiDS 
 
-This repository contains my complete work for the **WiDS (Women in Data Science) NLP Track**.  
+This repository contains my complete work for the **WiDS (Winters in Data Science) NLP Track**.  
 The journey progresses from **NLP fundamentals**, through **deep learning methods**, and finally to **modern transformer-based architectures**.
 
 All implementations are done using **Google Colab** for easy reproducibility and accessibility.
@@ -109,4 +109,4 @@ This repository reflects my structured learning journey in NLP — from fundamen
 
 ---
 
-✨ **End of README**
+
