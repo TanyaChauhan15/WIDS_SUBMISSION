@@ -1,112 +1,105 @@
-# 🎙️ WiDS 5.0 — Speech to Text Engine
+🎙️ WiDS 5.0 — Speech to Text Engine
 
-This repository presents my work completed as part of **WiDS (Winter in Data Science) 5.0**, under the project:
+This repository presents my work completed as part of WiDS (Winter in Data Science) 5.0, under the project:
 
-> **UID: 40 — Speech to Text Engine**
+UID: 40 — Speech to Text Engine
 
-The repository documents **weekly progress, implementations, and learning outcomes** achieved throughout the program, covering the journey from **NLP fundamentals** to building a **complete Speech-to-Text (STT) system**.
+The repository documents weekly progress, implementations, and learning outcomes achieved throughout the program, covering the journey from NLP fundamentals to a complete Speech-to-Text (STT) system.
 
----
+📌 Table of Contents
 
-## 📌 Table of Contents
-- [Program Overview](#program-overview)
-- [Week 1 — Foundations of NLP](#-week-1--foundations-of-natural-language-processing)
-- [Week 2 — Neural Networks for NLP](#-week-2--neural-networks-for-nlp)
-- [Week 3 — Transformer-Based NLP Models](#-week-3--transformer-based-nlp-models)
-- [Week 4 — Fundamentals of Speech Processing](#-week-4--fundamentals-of-speech-processing)
-- [Week 5 — Developing a Speech-to-Text System](#-week-5--developing-a-speech-to-text-system)
-- [Notes](#-notes)
+Program Overview
 
----
+Week 1 — Foundations of NLP
 
-## 📖 Program Overview
+Week 2 — Neural Networks for NLP
 
-**WiDS 5.0** is a structured data science program focused on building strong theoretical foundations and practical skills in **Natural Language Processing** and **Speech Technologies**.  
-This project emphasizes **conceptual clarity**, **hands-on implementation**, and **model evaluation**.
+Week 3 — Transformer-Based NLP Models
 
----
+Week 4 — Fundamentals of Speech Processing
 
-## 📅 Week 1 — Foundations of Natural Language Processing
+Week 5 — Developing a Speech-to-Text System
 
-### Topics Covered
-- Core concepts of Natural Language Processing (NLP)
-- Tokenization and stopword handling
-- Stemming and lemmatization techniques
-- N-gram based text representation
-- Fundamental text preprocessing workflows
+Notes
 
----
+📖 Program Overview
 
-## 📅 Week 2 — Neural Networks for NLP
+WiDS 5.0 is a structured data science program focused on building strong theoretical foundations and practical skills in Natural Language Processing and Speech Technologies.
+This project emphasizes conceptual clarity, hands-on implementation, and model evaluation.
 
-### Topics Covered
-- Word embedding techniques: **Word2Vec**, **GloVe**
-- Bag-of-Words (BoW) and **TF-IDF**
-- Sentiment classification using **LSTM models**
-- Embedding visualization using **PCA** and **t-SNE**
-- Comparative evaluation of traditional vs neural NLP models
+📅 Week 1 — Foundations of Natural Language Processing
+Topics Covered
 
----
+Core concepts of NLP
 
-## 📅 Week 3 — Transformer-Based NLP Models
+Tokenization and stopword handling
 
-### Topics Covered
-- Transformer architecture and **self-attention mechanism**
-- Comparison of **BERT**, **GPT**, and **Encoder–Decoder** models
-- Subword tokenization methods:
-  - WordPiece  
-  - Byte Pair Encoding (BPE)  
-  - SentencePiece
-- Fine-tuning transformer models for classification
-- Using **Hugging Face pipelines**
-- Abstractive text summarization with **BART**
+Stemming and lemmatization
 
----
+N-gram based text representation
 
-## 📅 Week 4 — Fundamentals of Speech Processing
+Fundamental text preprocessing techniques
 
-### Topics Covered
-- Digital representation of speech signals
-- Sampling, quantization, and framing
-- Time–frequency analysis using **spectrograms**
-- Mel scale fundamentals and **Mel spectrograms**
-- **MFCC** feature extraction
-- Traditional vs deep learning-based ASR systems
-- Audio preprocessing pipelines
-- Introduction to **keyword spotting**
+📅 Week 2 — Neural Networks for NLP
+Topics Covered
 
----
+Word embedding techniques (Word2Vec, GloVe)
 
-## 📅 Week 5 — Developing a Speech-to-Text System
+Bag-of-Words and TF-IDF
 
-### Topics Covered
-- Overview of Speech-to-Text (STT) technology
-- End-to-end STT processing pipelines
-- Use of **pretrained speech recognition models**
-- Architecture and working of:
-  - **Whisper**
-  - **Wav2Vec 2.0**
-- Speech data preparation and preprocessing
-- Fine-tuning pretrained STT models
-- Model evaluation using **Word Error Rate (WER)**
+Sentiment classification using LSTM
 
----
+Embedding visualization using PCA and t-SNE
 
-## ✅ Notes
-- The project follows the structured weekly plan of **WiDS 5.0**
-- Implementations prioritize **learning outcomes and interpretability**
-- Lightweight datasets and models are used for **efficient execution**
-- Ideal for beginners transitioning into **Speech & NLP research**
+Comparative evaluation of NLP models
 
----
+📅 Week 3 — Transformer-Based NLP Models
+Topics Covered
 
-### 📬 Author
-**WiDS 5.0 Participant**  
-_Project UID: 40 — Speech to Text Engine_
+Transformer architecture and self-attention
 
+BERT vs GPT vs Encoder–Decoder models
 
+Subword tokenization (WordPiece, BPE, SentencePiece)
 
+Fine-tuning transformers for classification
 
+Hugging Face pipelines
 
+Abstractive text summarization with BART
 
+📅 Week 4 — Fundamentals of Speech Processing
+Topics Covered
 
+Digital speech signal representation
+
+Sampling, quantization, and framing
+
+Spectrogram-based time–frequency analysis
+
+Mel scale and Mel spectrograms
+
+MFCC feature extraction
+
+Traditional vs deep learning ASR
+
+Audio preprocessing pipeline
+
+Keyword spotting basics
+
+📅 Week 5 — Developing a Speech-to-Text System
+Topics Covered
+
+Introduction to STT technology
+
+End-to-end STT pipeline
+
+Pretrained speech recognition models
+
+Whisper and Wav2Vec 2.0 architectures
+
+Speech data preprocessing
+
+Fine-tuning STT models
+
+Evaluation using Word Error Rate (WER)
