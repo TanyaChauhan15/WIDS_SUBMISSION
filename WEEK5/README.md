@@ -53,4 +53,4 @@ This week marks the move into multimodal NLP, specifically focusing on Automatic
 ---
 
 ## Reference
-Google Colab Notebook:
+Google drive:https://drive.google.com/drive/folders/19Am8oQO4fJf7Dl6IGMKHlps2DNDU4VnH?usp=sharing
