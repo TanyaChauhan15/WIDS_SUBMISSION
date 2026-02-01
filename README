@@ -1,111 +1,76 @@
-# WiDS 
+# WiDS 5.O
 
-This repository contains my complete work for the **WiDS (Winters in Data Science) NLP Track**.  
-The journey progresses from **NLP fundamentals**, through **deep learning methods**, and finally to **modern transformer-based architectures**.
+This repository presents my work completed as part of **WiDS (Winter in Data Science) 5.O**, under the project **UID: 40 – Speech to Text Engine**.
 
-All implementations are done using **Google Colab** for easy reproducibility and accessibility.
-
----
-
-## 📌 Overview of Weekly Progress
-
-- **Week 1** focuses on understanding the basics of NLP and text preprocessing.
-- **Week 2** introduces machine learning and deep learning techniques for NLP tasks.
-- **Week 3** explores modern NLP using transformers and pretrained models.
-
-Each week includes hands-on coding, experiments, and mini-projects aligned with the WiDS curriculum.
+The repository documents the weekly progress and learning outcomes achieved throughout the program.
 
 ---
 
-## 📅 Week 1 — Basics of Natural Language Processing
+## 📅 Week 1 — Foundations of Natural Language Processing
 
-### Key Topics
-- Introduction to NLP
-- Tokens, types, and corpora
-- Text preprocessing techniques:
-  - Tokenization
-  - Stopword removal
-  - Stemming and lemmatization
-- N-grams
-- Basic NLP pipeline using Python
-
-### Outcome
-By the end of this week, I gained a strong foundation in how textual data is processed and prepared for machine learning models.
-
-🔗 **Google Colab Notebook (Week 1)**  
-https://colab.research.google.com/drive/1NEfwJZqhX6gamu2tBLz2fln4lWkhK3OR
+### Topics Covered
+- Core concepts of NLP  
+- Tokenization and stopword handling  
+- Stemming and lemmatization methods  
+- N-gram based text representation  
+- Fundamental text preprocessing techniques  
 
 ---
 
-## 📅 Week 2 — Deep Learning for NLP
+## 📅 Week 2 — Neural Networks for NLP
 
-### Key Topics
-- Word embeddings:
-  - Word2Vec
-  - GloVe
-- Traditional NLP approaches:
-  - Bag-of-Words
-  - TF-IDF
-- Neural networks for NLP:
-  - RNN
-  - LSTM
-- Evaluation metrics:
-  - Accuracy
-  - F1-score
-
-### Mini-Project
-- Comparison of:
-  - TF-IDF + Logistic Regression
-  - LSTM-based sentiment classifier
-
-### Outcome
-This week helped me understand how deep learning models capture semantic meaning and context in text data.
-
-🔗 **Google Colab Notebook (Week 2)**  
-https://colab.research.google.com/drive/1nDpwkVI-SiFNQsJvcTJEJFOzfMzX7BCO
+### Topics Covered
+- Word embedding techniques (Word2Vec, GloVe)  
+- Bag-of-Words and TF-IDF approaches  
+- Sentiment classification using LSTM models  
+- Visualization of embeddings using PCA and t-SNE  
+- Comparative evaluation of NLP models  
 
 ---
 
-## 📅 Week 3 — Transformers and Modern NLP
+## 📅 Week 3 — Transformer-Based NLP Models
 
-### Key Topics
-- Transformer architecture
-- Self-attention mechanism (Q, K, V)
-- Comparison of:
-  - BERT
-  - GPT
-  - Encoder–Decoder models
-- Tokenization techniques:
-  - WordPiece
-  - BPE
-  - SentencePiece
-
-### Mini-Project
-- Text summarization using pretrained transformer models
-- Fine-tuning BERT for text classification
-- Inference using Hugging Face pipelines
-
-### Outcome
-This week introduced state-of-the-art NLP techniques and practical usage of pretrained transformer models.
-
-🔗 **Google Colab Notebook (Week 3)**  
-https://colab.research.google.com/drive/16n6mNQHVoTaRHrW23FkJr8l9L3tIuk-y
+### Topics Covered
+- Working principles of transformers and self-attention  
+- Comparison between BERT, GPT, and Encoder–Decoder architectures  
+- Subword tokenization techniques (WordPiece, BPE, SentencePiece)  
+- Fine-tuning transformer models for classification tasks  
+- Leveraging Hugging Face pipelines  
+- Abstractive text summarization with BART  
 
 ---
 
-## 🛠 Tools & Technologies Used
-- Python
-- Google Colab
-- NLTK & spaCy
-- Scikit-learn
-- TensorFlow / PyTorch
-- Hugging Face Transformers & Datasets
-- SentencePiece
+## 📅 Week 4 — Fundamentals of Speech Processing
+
+### Topics Covered
+- Digital representation of speech signals  
+- Sampling, quantization, and frame segmentation  
+- Spectrogram-based time–frequency analysis  
+- Mel scale fundamentals and Mel spectrogram computation  
+- MFCC-based feature extraction  
+- Traditional versus deep learning speech recognition methods  
+- Audio preprocessing workflow  
+- Basic keyword spotting concepts  
 
 ---
 
-## ✅ Conclusion
-This repository reflects my structured learning journey in NLP — from fundamentals to modern transformer-based approaches — through consistent hands-on implementation and experimentation.
+## 📅 Week 5 — Developing a Speech-to-Text System
+
+### Topics Covered
+- Introduction to Speech-to-Text (STT) technology  
+- Complete STT processing pipelines  
+- Use of pretrained speech recognition models  
+- Architectural overview of Whisper and Wav2Vec 2.0  
+- Speech data preparation and preprocessing  
+- Fine-tuning pretrained STT models  
+- Model performance evaluation using Word Error Rate (WER)  
+
+---
+
+## ✅ Notes
+- The work follows the structured weekly plan of the WiDS program  
+- Implementations focus on conceptual clarity and learning outcomes  
+- Lightweight models and datasets are used to ensure efficient execution
 
 ---
 
